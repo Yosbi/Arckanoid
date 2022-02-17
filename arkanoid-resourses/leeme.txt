@@ -1,0 +1,3 @@
+los ladrillos son de 50 px x 20 px.
+Mas o menos unos 45 px de radio la base
+La pelota tiene 10 px de diametro

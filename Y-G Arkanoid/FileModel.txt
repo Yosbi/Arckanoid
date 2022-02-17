@@ -1,0 +1,4 @@
+central_possition x
+central_possition y
+color(b|g|o|p)  
+breakable
